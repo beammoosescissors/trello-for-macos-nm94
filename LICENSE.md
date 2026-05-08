@@ -1,4 +1,4 @@
-
+Enhance Trello for macOS with Trello for macOS automatic Macro - real-time editing and export to PDF, the #1 macro. Includes real-time editing and export to PDF for a smoother
 
 
 
